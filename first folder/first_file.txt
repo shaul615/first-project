@@ -1,1 +1,2 @@
 this is a bit of text in the first folder
+now we added a second line to first file
